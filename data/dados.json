@@ -1,0 +1,65 @@
+{
+    "hero":{
+
+        "subtitulo":
+
+        "MULHERES FORTES • RESULTADOS REAIS",
+
+        "titulo":
+
+        "SUA JORNADA NA MUSCULAÇÃO COMEÇA AQUI",
+
+        "descricao":
+
+        "Treinos feitos para mulheres que desejam ganhar força e confiança."
+
+    },
+
+    "menu":[
+
+        "Início",
+
+        "Treinos",
+
+        "Nutrição",
+
+        "Roupas"
+
+    ],
+
+    "estatisticas":[
+
+        {
+
+            "valor":"250+",
+
+            "titulo":"Treinos"
+
+        },
+
+        {
+
+            "valor":"12K+",
+
+            "titulo":"Usuárias"
+
+        },
+
+        {
+
+            "valor":"30",
+
+            "titulo":"Dias desafio"
+
+        },
+
+        {
+
+            "valor":"100%",
+
+            "titulo":"Foco"
+
+        }
+
+    ]
+}
